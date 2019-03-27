@@ -1,4 +1,4 @@
-package com.bootcamp.pizzashop;
+package com.bootcamp.builderpattern;
 
 public enum Topping {
     VEGITABLE(new Price(20)),
